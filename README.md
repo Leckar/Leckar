@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Leckar;
+- 👀 I’m interested in learning front-end development;
+- 🌱 I’m currently learning JS;
+- 💞️ I’m looking to collaborate on whatever I can in order to gain knowledge and experience;
+- 📫 You can reach me on linkedin.com/in/gustavoleckar/

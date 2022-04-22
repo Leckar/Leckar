@@ -7,8 +7,10 @@
 - 📫 You can reach me on [my likendin](https://linkedin.com/in/gustavoleckar/) or at gusleckar@gmail.com
 
 
-<div style="display: flex; flex-direction: row-reverse;">
-  <a href="https://github.com/Leckar">
-  <img height="180em" class="img" src="https://github-readme-stats.vercel.app/api?username=Leckar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckar&layout=compact&theme=highcontrast"/>
-</div>
+<a href="https://github.com/Leckar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leckar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/Leckar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckar&layout=compact&theme=highcontrast"/>
+</a>
+ 

@@ -12,7 +12,7 @@
 
 <div align="center">
   <a wref="https://github.com/Leckar">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=Leckar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckar&layout=compact&theme=highcontrast"/>
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Leckar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckar&layout=compact&theme=highcontrast"/>
 </div>
  

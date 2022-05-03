@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning web development at Trybe;
 - 👀 I’m interested in learning web development;
-- 🤝 I’m looking to collaborate with any interesting projects I can in order to gain knowledge and experience;
+- 🤝 I’m open to collaborate with any interesting projects I can in order to gain knowledge and experience;
 - 📫 You can reach me on <div>
   <a href = "mailto:gusleckar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
  target="_blank"></a>

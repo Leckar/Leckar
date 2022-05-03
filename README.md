@@ -5,14 +5,17 @@
 - 👀 I’m interested in learning web development;
 - 🤝 I’m open to collaborate with any interesting projects I can in order to gain knowledge and experience;
 - 📫 You can reach me on <div>
-  <a href = "mailto:gusleckar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  <a href="mailto:gusleckar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
  target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavoleckar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/G_LeckaR/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
 </div>
 
 <div align="center">
   <a wref="https://github.com/Leckar">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Leckar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckar&layout=compact&theme=highcontrast"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?   username=Leckar&layout=compact&theme=highcontrast"/>
+
 </div>
  

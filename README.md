@@ -1,7 +1,7 @@
 
 ### 👋 Heya, I’m Gustavo Leckar!
 
-- 🌱 I’m currently learning web development at Trybe;
+- 🌱 Web developer trained at Trybe;
 - 👀 I’m most interested in working with TypeScript and Node.JS, regardless of database and ORM;
 - 🤝 I’m open to collaborate with any interesting projects I can in order to gain knowledge and experience;
 - 📫 You can reach me at gusleckar@gmail.com

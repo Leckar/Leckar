@@ -1,7 +1,7 @@
 
 ### 👋 Heya, I’m Gustavo Leckar!
 
-- 🌱 Web developer trained at Trybe;
+- 🌱 Web developer trained at Trybe and I'm a Systems Analysis and Development student at Universidade Veiga de Almeida;
 - 👀 I’m most interested in working with TypeScript and Node.JS, regardless of database and ORM;
 - 🤝 I’m open to collaborate with any interesting projects I can in order to gain knowledge and experience;
 - 📫 You can reach me at gusleckar@gmail.com
@@ -28,9 +28,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"	alt="CSS3">
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="JEST">
   <br>
-</div>
-
-<div align="center">
-  <a wref="https://github.com/Leckar">
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leckar&layout=compact&theme=highcontrast"/>
 </div>
